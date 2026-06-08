@@ -13,6 +13,7 @@ across medical image analysis, generative models, and LLM-based agents.
 > → Exploration of tool-augmented and agent-based AI systems for complex task execution.  
 > → https://github.com/TruhnLab/computer-use-agents
 
-## Academic profile
-
-Google Scholar: https://scholar.google.de/citations?user=JV57X-wAAAAJ
+<br><br>
+##
+Google Scholar: https://scholar.google.de/citations?user=JV57X-wAAAAJ <br>
+LinkedIn: https://de.linkedin.com/in/dennis-eschweiler-138106231
