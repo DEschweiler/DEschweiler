@@ -18,7 +18,6 @@ across medical image analysis, generative models, and LLM-based agents.
 > → Supports annotation-limited biomedical imaging tasks.  
 > → https://github.com/stegmaierj/DiffusionModelsForImageSynthesis
 
-<br>
 ##
 Google Scholar: https://scholar.google.de/citations?user=JV57X-wAAAAJ <br>
 LinkedIn: https://de.linkedin.com/in/dennis-eschweiler-138106231
