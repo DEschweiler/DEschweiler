@@ -1,11 +1,11 @@
 ## About me
-Hi there 👋 I am an AI research engineer with a decade of deep-learning and machine-learning experience
-across medical image analysis, generative models, and LLM-based agents.
+Hi there 👋 I am an AI research engineer with a decade of deep learning and machine learning experience across different computer vision domains.
 
 ## Selected work
 
 🦴 Radiograph Landmark Matching  
 > → Training-free landmark-based morphometry for musculoskeletal radiography.<br>
+> → Enables scalability of automated morphometry and large-scale data analysis.<br>
 > → Parts of this work received the [DGMSR Wissenschaftspreis 2026](https://www.ukaachen.de/kliniken-institute/klinik-fuer-diagnostische-und-interventionelle-radiologie/alle-beitraege-aus-news/news/dennis-eschweiler-aus-dem-lab-for-artificial-intelligence-in-medicine-erhaelt-den-dgmsr-wissenschaftspreis-2026/).  
 > → [https://github.com/TruhnLab/RadiographLandmarkMatching](https://truhnlab.github.io/RadiographLandmarkMatching/)
 
