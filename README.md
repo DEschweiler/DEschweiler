@@ -1,7 +1,7 @@
 AI research engineer at the Lab for AI in Medicine, University Hospital Aachen. About ten years of deep learning in computer vision. My current focus is musculoskeletal radiography, LLM agents and embodied AI.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=JV57X-wAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://de.linkedin.com/in/dennis-eschweiler-138106231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://de.linkedin.com/in/dennis-eschweiler)
 
 #### News
 - **2026** · Released the [Radiograph Morphometry Agent](https://truhnlab.github.io/RadiographMorphometryAgent/) (ongoing work)
